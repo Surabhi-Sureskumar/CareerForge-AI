@@ -9,7 +9,7 @@ CareerForge AI is an AI-powered web application that helps job seekers tailor th
 ### 🌐 CareerForge AI Website
 
 **Open the live application:**  
-https://career-forge-ai-seven.vercel.app/
+https://career-forge-ai-seven.vercel.app/ (Please use data or home Wifi to open the website)
 
 ### 🔗 n8n Production Webhook
 
@@ -21,7 +21,7 @@ https://gladsonissac.app.n8n.cloud/webhook/careerforge-tailor
 
 ### 🧪 How to Test the Project
 
-1. Open the [CareerForge AI website](https://career-forge-ai-seven.vercel.app/). (Please use data or home Wifi to open the website)
+1. Open the [CareerForge AI website](https://career-forge-ai-seven.vercel.app/).
 2. Copy the n8n Production Webhook URL above.
 3. Paste it into the website's webhook configuration field.
 4. Click **Test Connection** and confirm the connection succeeds.
